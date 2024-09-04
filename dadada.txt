@@ -644,12 +644,7 @@
 :root .container_adcaac {
   border-bottom: none;
 }
-:root .voiceUserSummary_c43953 svg:not(.icon_c47562) {
-  padding-right: 10px;
-}
-:root [mask="url(#svg-mask-voice-user-summary-item)"] {
-  mask: none;
-}
+
 :root .tile_dc5fc4 {
   background-color: var(--background-secondary-alt);
 }
