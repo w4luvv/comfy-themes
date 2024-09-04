@@ -492,12 +492,7 @@
 :root #guild-header-popout-invite-people .icon_d90b3d {
   color: #677bc4;
 }
-:root #guild-header-popout-settings:hover, :root #guild-header-popout-settings:active:not(.hideInteraction_d90b3d), :root #guild-header-popout-settings.focused_d90b3d {
-  background-color: rgba(84, 110, 122, 0.1176470588);
-}
-:root #guild-header-popout-settings .icon_d90b3d {
-  color: #546e7a;
-}
+
 :root #guild-header-popout-insights:hover, :root #guild-header-popout-insights:active:not(.hideInteraction_d90b3d), :root #guild-header-popout-insights.focused_d90b3d {
   background-color: rgba(26, 188, 156, 0.137254902);
 }
@@ -1300,10 +1295,7 @@
   width: 285px;
 }
 :root .sidebar_c25c6d > div > .item_a0,
-:root #bd-settings-sidebar .ui-tab-bar-item {
-  padding: 8px 0 8px 10px;
-  border-radius: 5px 0 0 5px;
-}
+
 :root .closeButton_df5532 {
   border-radius: 5px;
 }
