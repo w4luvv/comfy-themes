@@ -400,10 +400,7 @@
   flex-direction: column;
   background: linear-gradient(transparent, var(--background-tertiary) 15%);
 }
-:root .panels_a4d4d9 > .container_b2ca13 > .flex_bba380 > .button_f67531 {
-  color: var(--user-buttons-color);
-  margin: var(--user-buttons-spacing) auto 0 auto;
-}
+
 :root .inner-1ilYF7 > .modal_ec75c1 > .header_f9a4c9,
 :root .modal_ec75c1,
 :root .inner-1ilYF7 > .modal_ec75c1 > .scrollerBase_eed6a8 {
