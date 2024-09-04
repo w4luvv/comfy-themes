@@ -1784,15 +1784,7 @@
 :root .nowPlayingColumn_c2739c .itemCard_f02fcf .separator_cd82a7 {
   display: none;
 }
-:root .bottomControls_dd069c .centerButton_ef18ee {
-  border-radius: 7px;
-}
-:root .bottomControls_dd069c .colorable_ef18ee.primaryDark_ef18ee {
-  background: var(--background-secondary-alt);
-}
-:root .bottomControls_dd069c foreignObject {
-  mask: none;
-}
+
 :root .participantsButton_b83b18 {
   background: var(--background-secondary-alt);
 }
